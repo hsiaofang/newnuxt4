@@ -4,7 +4,6 @@
         <div class="flex-auto">
             <slot />
         </div>
-        <the-footer />
     </div>
 </template>
 
